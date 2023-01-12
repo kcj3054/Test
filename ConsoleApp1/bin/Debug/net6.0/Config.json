@@ -1,0 +1,15 @@
+{
+    "Logging": {
+        "LogLevel": {
+            "Default": "Debug",
+            "System": "Information",
+            "Microsoft": "Information"
+        }
+    },
+    "ServerInfo": {
+        "ID": "1",
+        "ServerType": "2",
+        "LogLevel": "2",
+        "Cheat": true
+    }
+}
